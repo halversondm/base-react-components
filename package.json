@@ -2,7 +2,7 @@
   "name": "base-react-components",
   "version": "1.0.0",
   "description": "My base react components for education",
-  "main": "dist/index.js",
+  "main": "dist/base-react-components.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "webpack --config webpack.config.js --profile --progress --colors"
